@@ -1,6 +1,7 @@
 # CruiseTool
 
-CruiseTool est un projet Java permettant la lecture et l’extraction de données à partir de fichiers de configuration de volume du jeu "Croisière pour un cadavre".  
+CruiseTool est un projet Java permettant la lecture et l’extraction de données à partir de fichiers de configuration de volume du jeu "Croisière pour un cadavre".
+Il s'agit d'une adaptation en Java de ce qui est fait dans ScummVM.
 Il comprend plusieurs classes responsables du traitement des fichiers binaires et de la gestion des volumes.
 
 ## Structure du projet
